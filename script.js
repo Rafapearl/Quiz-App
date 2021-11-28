@@ -5,7 +5,7 @@ const quizData = [ {
     b: 'Johnson',
     c: 'Jay',
     d: 'Jorge',
-    corret: 'c'
+    correct: 'c'
 },
 {
  question: 'How old was Harry Potter in the first movie?',
@@ -13,7 +13,7 @@ const quizData = [ {
      b: '09',
      c: '12',
      d: '15',
-     corret: 'a'
+     correct: 'a'
 },
 {
     question: "What is the name of Nemo's dad in Finding Nemo?",
@@ -21,14 +21,14 @@ const quizData = [ {
     b: 'Marlin',
     c: 'Jake',
     d: 'Albert',
-    corret: 'b'
+    correct: 'b'
 },
 { question: "Who is the main character in resident evil 4?",
   a: 'Leon',
   b: 'Chris',
   c: 'Isa',
   d: 'Jil',
-  corret: 'a'
+  correct: 'a'
 
 
 },
