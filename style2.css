@@ -6,9 +6,9 @@
 body {
    font-family: "Poppins", "sans-serif";
     margin: 0;
-    background-color: #b8c6db;
+    background-color: #9bdf8f;
     justify-content: center;
-    background-image: linear-gradient(315deg, #9fb2cf, #fddada 74%);
+    background-image: linear-gradient(315deg, #adebad, #f8ff95 74%);
     min-height: 100vh;
     max-width: 100%;
     align-items: center;
@@ -57,7 +57,7 @@ ul li label {
 
 
 button{
-    background-image: linear-gradient(315deg, #3b72c5, #dbd5ff 74%);
+    background-image: linear-gradient(315deg, #98bfeb, #5daa4a 74%);
     display: block;
     width: 100%;
     padding: 2rem;
@@ -66,21 +66,22 @@ button{
     padding: 1.3rem;
     font-family:"inherit";
     cursor: pointer;
+    
 
 }
 
 button:hover {
-    background-image: linear-gradient(315deg, #3b72c5, #6f5be0 74%);
+    background-image: linear-gradient(315deg, #8be064, #a4ff2c 74%);
 
 }
 
 button:focus{
  outline:none;
- background-image: linear-gradient(315deg, #20539e, #4935b8 74%);
-
-
+ background-image: linear-gradient(315deg, #5eac3b, #75b81e 74%);
 
 }
+
+
 
 .languages{
     display:flex;
@@ -89,5 +90,4 @@ button:focus{
     margin-left: auto;
     margin-bottom: 35rem;
     
-
 }
