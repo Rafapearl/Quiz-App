@@ -1,6 +1,12 @@
 # Quiz-App
 
-This is an amazing Quiz about pop culture. Try to get the best score! (HTML/CSS/JavaScript)
+This is an amazing Quiz about pop culture. Try to get the best score! Available in English and Portuguese. (HTML/CSS/JavaScript)
 
 ![print-question](/print-question.JPG)
 ![print-score](/print-score.JPG)
+
+Portuguese - BR
+![print-question](/printBR-question.JPG)
+![print-score](/printBR-score.JPG)
+
+
